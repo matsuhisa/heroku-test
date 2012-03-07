@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
- 'Hello, Sinatra'
+ 'Hello, Sinatra change!'
 end
 
 get '/page1/' do
